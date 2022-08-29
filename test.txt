@@ -6,3 +6,5 @@ we are going to record some git commands here
 test
 add git commands again by wlin
 add non fast-forward
+add same pos1 by suhiy
+add same pos2 by suhiy
